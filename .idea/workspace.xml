@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65a2c48a-daac-47e1-8ae8-d948f3a92560" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gR7c8zhoG9p3WX1eFZ01rhPWVu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StrategicMarketReports" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Django3.0\GSN_Assignment_Javed\empinfo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GSN_Assignment_Javed" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65a2c48a-daac-47e1-8ae8-d948f3a92560" name="Default Changelist" comment="" />
+      <created>1598065627531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598065627531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598210171963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598210171963" />
+    <state x="714" y="82" key="#xdebugger.evaluate" timestamp="1598215214499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="714" y="82" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215214499" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598159620718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598159620718" />
+    <state width="1344" height="371" key="GridCell.Tab.0.bottom" timestamp="1598215586448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586448" />
+    <state width="1344" height="371" key="GridCell.Tab.0.center" timestamp="1598215586446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586446" />
+    <state width="1344" height="371" key="GridCell.Tab.0.left" timestamp="1598215586446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586446" />
+    <state width="1344" height="371" key="GridCell.Tab.0.right" timestamp="1598215586447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586447" />
+    <state width="1344" height="371" key="GridCell.Tab.1.bottom" timestamp="1598215586450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586450" />
+    <state width="1344" height="371" key="GridCell.Tab.1.center" timestamp="1598215586449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586449" />
+    <state width="1344" height="371" key="GridCell.Tab.1.left" timestamp="1598215586448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586448" />
+    <state width="1344" height="371" key="GridCell.Tab.1.right" timestamp="1598215586450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="371" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598215586450" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1598240200903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598240200903" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598197926768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1598197926768" />
+  </component>
+</project>
